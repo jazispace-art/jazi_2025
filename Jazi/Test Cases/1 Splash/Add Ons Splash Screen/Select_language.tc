@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User select the leanguage as they want to use the Application &quot;English&quot; or &quot;Arabic&quot;</description>
+   <name>Select_language</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b336f60-7e5c-4451-b64a-d6d82e66cc26</testCaseGuid>
+</TestCaseEntity>

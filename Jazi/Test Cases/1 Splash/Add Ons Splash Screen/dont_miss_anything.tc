@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is the second screen after splash to moving dashboard</description>
+   <name>dont_miss_anything</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc701e61-a10a-4c3e-80b9-6206b619cb33</testCaseGuid>
+</TestCaseEntity>

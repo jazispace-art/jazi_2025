@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This screen is appeared for the first time open the App</description>
+   <name>TC_Main_Splash Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1239cd00-c0b9-42b6-9e46-b423cbf0fa7e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2955e5f-3bc8-4e86-afaf-eae8369a9ae1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9984230f-e6ce-4653-a8ba-a32b671a3c99</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f05678d-1f31-432c-afb6-7372cb2a6471</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Splash Screen/btn - Sure')</defaultValue>
+      <description></description>
+      <id>f2955e5f-3bc8-4e86-afaf-eae8369a9ae1</id>
+      <masked>false</masked>
+      <name>btn_sure</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Splash Screen/btn - ENGLISH')</defaultValue>
+      <description></description>
+      <id>9984230f-e6ce-4653-a8ba-a32b671a3c99</id>
+      <masked>false</masked>
+      <name>btn_eng</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Dasboard/btn - Home tab')</defaultValue>
+      <description></description>
+      <id>8f05678d-1f31-432c-afb6-7372cb2a6471</id>
+      <masked>false</masked>
+      <name>nav_bar</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Continue on Splash Screen</description>
+   <name>btn_Continue</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62b02611-3d07-4a42-9924-64f42b40662c</testCaseGuid>
+</TestCaseEntity>
